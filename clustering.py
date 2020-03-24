@@ -274,3 +274,4 @@ if __name__ == '__main__':
     # subprocess.call("python3 Cure.py ", shell=True)
     #print(birchMaxAcc,birchBranching,birchThreshold)
     print(acc)
+    print("21:44")
